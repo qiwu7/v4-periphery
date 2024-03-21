@@ -1,3 +1,4 @@
 cache/
 foundry-out/
 .vscode/
+.env
